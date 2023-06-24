@@ -1,6 +1,10 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Spencer! <br/> <a href="https://www.linkedin.com/in/spencerleemoy/">Cybersecurity Professional with UX Design Experience</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>:necktie: Intro</h2>
+As a UX designer with over 15 years of experience, I have decided to pivot into cybersecurity. I believe that my skills as a UX designer, such as attention to detail, problem-solving, and critical thinking, are transferable to the field of cybersecurity. Additionally, my experience in communicating effectively with stakeholders, including clients, designers, and developers, has prepared me to write clear and concise technical documentation. I have also written technical documents such as heuristic evaluations, functional specs, and annotations such as user flows, design decisions, and functionality. I am confident that my passion for UX can be applied to improve the user experience of cybersecurity products and services.
+
+
+<h2>👨‍💻 Microsoft Azure Projects</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
