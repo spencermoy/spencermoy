@@ -7,9 +7,9 @@ As a UX designer with over 15 years of experience, I have decided to pivot into 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b> Azure/Cloud Projects</b>
-  - Honeynet & SOC (https://github.com/spencermoy/setup-honeynet)
-  - Setting up Honeynet & Attack Simulation (https://github.com/spencermoy/setup-honeynet)
-  - Hardening Honeynet (https://github.com/spencermoy/hardening-honeynet/)
+  - [Honeynet & SOC](https://github.com/spencermoy/setup-honeynet)
+  - [Setting up Honeynet & Attack Simulation](https://github.com/spencermoy/setup-honeynet)
+  - [Hardening Honeynet](https://github.com/spencermoy/hardening-honeynet/)
 
 <h2> 🤳 Connect with me:</h2>
 
