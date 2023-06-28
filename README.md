@@ -9,6 +9,7 @@ As a UX designer with over 15 years of experience, I have decided to pivot into 
 - <b> Azure/Cloud Projects</b>
   - [Honeynet & SOC](https://github.com/spencermoy/setup-honeynet)
   - [Setting up Honeynet & Attack Simulation](https://github.com/spencermoy/setup-honeynet)
+  - [Adding Geo-Data to Query Table] (https://github.com/spencermoy/geo-data)
   - [Hardening Honeynet](https://github.com/spencermoy/hardening-honeynet/)
 
 <h2> :handshake: Connect with me:</h2>
